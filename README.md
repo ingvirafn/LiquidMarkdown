@@ -2,7 +2,7 @@
 
 What is better than Markdown? Markdown with templates!
 
-Mix of Markdown ([Markdown.Xaml](https://github.com/theunrepentantgeek/Markdown.XAML) in this case) and Liquid ([dotliquid](https://github.com/dotliquid/dotliquid) template processor.
+Mix of Markdown ([Markdown.Xaml](https://github.com/theunrepentantgeek/Markdown.XAML) in this case) and Liquid ([dotliquid](https://github.com/dotliquid/dotliquid)) template processor.
 
 # Example #
 ```
